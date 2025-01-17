@@ -1,4 +1,4 @@
-# Automated Birthday Wisher
+# Automated Birthday Wisher 🎉
 
 ## Description
 
@@ -95,8 +95,10 @@ The project consists of several files and folders. Here’s a breakdown:
 3. Update the `constants.py` file with your email credentials.
 4. Add recipient data to `birthdays.csv` and create email templates in `letter_templates`.
 5. Run the script with the following command:
+```
    python main.py
-6. Optionally, deploy the script on PythonAnywhere for daily execution.
+```
+7. Optionally, deploy the script on PythonAnywhere for daily execution.
 
 ## Future Improvements
 
